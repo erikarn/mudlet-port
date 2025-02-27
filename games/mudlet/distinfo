@@ -1,0 +1,15 @@
+TIMESTAMP = 1740628598
+SHA256 (Mudlet-Mudlet-4.19-f5516c3_GH0.tar.gz) = 9fbcd979c4c97d9b007b86b89e05e5ae4a85268d83fe124e920658862519a344
+SIZE (Mudlet-Mudlet-4.19-f5516c3_GH0.tar.gz) = 42233505
+SHA256 (Mudlet-dblsqd-sdk-qt-c3c279fe_GH0.tar.gz) = e2e67e3d1fa41cb6e3e98d7b0c7bab40f277ee2747628bf4e5ef64b1f9d097dc
+SIZE (Mudlet-dblsqd-sdk-qt-c3c279fe_GH0.tar.gz) = 47214
+SHA256 (Mudlet-edbee-lib-46086e00_GH0.tar.gz) = 8ccba9d41fa77283252152da844d00fbded046c0ecb670d234679f70ae7948a7
+SIZE (Mudlet-edbee-lib-46086e00_GH0.tar.gz) = 1133321
+SHA256 (martin-eden-lua_code_formatter-4aa25029_GH0.tar.gz) = eb8e021d9f633732f4540843edabbeb6c513c8a9222579115638e7eb9226ce1e
+SIZE (martin-eden-lua_code_formatter-4aa25029_GH0.tar.gz) = 56074
+SHA256 (Mudlet-qt-ordered-map-ca2a31b7_GH0.tar.gz) = 110cfd4521977efd7b8ae8ebaf6579a7cb241577067b29af623c1a96165da095
+SIZE (Mudlet-qt-ordered-map-ca2a31b7_GH0.tar.gz) = 9426
+SHA256 (Mudlet-qtkeychain-ea7e748a_GH0.tar.gz) = 20362947ff1d0587fb038499ddebfb57214fa85e8b33661597214095412d672a
+SIZE (Mudlet-qtkeychain-ea7e748a_GH0.tar.gz) = 50664
+SHA256 (microsoft-vcpkg-a9dc9a4b_GH0.tar.gz) = 318ba816e6881a444c0be97c8916c0d9799ccd053dcec639bece8a788c126000
+SIZE (microsoft-vcpkg-a9dc9a4b_GH0.tar.gz) = 3771669

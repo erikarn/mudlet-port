@@ -1,0 +1,10 @@
+Mudlet is a popular QT based graphical MUD client that is open source
+and available for multiple platforms.
+
+It uses Lua as its scripting engine.
+
+WWW: https://mudlet.org/
+WWW: https://github.com/Mudlet/Mudlet
+
+Adrian Chadd <adrian@FreeBSD.org>
+
