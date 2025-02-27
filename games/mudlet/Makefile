@@ -11,6 +11,10 @@ GH_PROJECT=	Mudlet
 GH_TAGNAME=	${GH_COMMIT}
 GH_COMMIT=	f5516c3
 
+# Generated via the submodules2tuple port
+#
+# submodules2tuple https://github.com/Mudlet/mudlet -b release-4.19
+
 GH_TUPLE=	Mudlet:dblsqd-sdk-qt:c3c279fe:dblsqdsdkqt/3rdparty/dblsqd \
 		Mudlet:edbee-lib:46086e00:edbeelib/3rdparty/edbee-lib \
 		martin-eden:lua_code_formatter:4aa25029:lua_code_formatter/3rdparty/lcf \
